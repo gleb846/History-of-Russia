@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView114"
+        android:layout_width="350dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="40dp"
+        android:text="Владимир Ильич Ленин (Ульянов) - пролетарский революционер-мыслитель, продолжатель дела Маркса и Энгельса, организатор КПСС, основатель Российской Федерации и СССР, автор многочисленных трудов по вопросам теории и практики социалистической революции и построению социализма."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView115"
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        android:text="Иосиф Виссарионович Сталин (Джугашвили) - один из руководящих деятелей КПСС, Советского государства. И. В. Сталин был участником революции 1905-1907 г.г. в Закавказье, активный участник подготовки и проведения Октябрьской революции 1917 г. С 1917 по 1922 г. он являлся наркомом по делам национальностей, с 1922 по 1934 г. - Генеральный секретарь, с 1934 г. - секретарь ЦК партии."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView114" />
+
+    <TextView
+        android:id="@+id/textView116"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:text="Хрущёв Никита Сергеевич - советский государственный и партийный деятель, член КПСС с 1918 г. Политработник гражданской и Великой Отечественной войн. "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView118" />
+
+    <TextView
+        android:id="@+id/textView119"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:text="Андропов Юрий Владимирович - советский государственный и партийный деятель. С 1982 по 1984 г. — Генеральный секретарь ЦК КПСС, член Политбюро ЦК КПСС. "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView123" />
+
+    <TextView
+        android:id="@+id/textView125"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:text="Черненко Константин Устинович - советский партийный и государственный деятель, Генеральный секретарь ЦК КПСС с 1984 по 1985 г."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView119" />
+
+    <TextView
+        android:id="@+id/textView123"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:text="Брежнев Леонид Ильич - с 1966 по 1982 г. — Генеральный секретарь ЦК КПСС. Участник Великой Отечественной войны, где вёл политическую работу. "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView116" />
+
+    <TextView
+        android:id="@+id/textView118"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:text="Маленков Георгий Максимилианович - политический деятель, Герой Социалистического Труда (1943)."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView115" />
+</androidx.constraintlayout.widget.ConstraintLayout>

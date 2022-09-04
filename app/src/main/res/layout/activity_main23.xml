@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView178"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1704 — взятие Нарвы и Дерпта русскими войсками.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView179" />
+
+    <TextView
+        android:id="@+id/textView192"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:text=" 1754 — начало экономических реформ: отмена внутренних таможенных пошлин, принят новый Таможенный устав. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView188" />
+
+    <TextView
+        android:id="@+id/textView188"
+        android:layout_width="400dp"
+        android:layout_height="97dp"
+        android:text="Эпоха дворцовых переворотов 1725—1762 годов была следствием отмены Петровским Указом в 1772 году старого порядка престолонаследия, и смертью Петра I без объявления наследника престола. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView189" />
+
+    <TextView
+        android:id="@+id/textView189"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1721, 22 октября — принятие Петром I императорского титула.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView190" />
+
+    <TextView
+        android:id="@+id/textView190"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="1721 — создание Священного Синода во главе со светским обер-прокурором.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView191" />
+
+    <TextView
+        android:id="@+id/textView191"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1716 — Воинские уставы.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView187" />
+
+    <TextView
+        android:id="@+id/textView185"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1705—1711 — Башкирское восстание."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView178" />
+
+    <TextView
+        android:id="@+id/textView186"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1709, 27 июня — Полтавская битва. Разгром шведской армии.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView185" />
+
+    <TextView
+        android:id="@+id/textView187"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1714, 27 июля — морское сражение при Гангуте. Победа русского флота.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView186" />
+
+    <TextView
+        android:id="@+id/textView179"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1703, 16 мая — основание Санкт-Петербурга. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView180" />
+
+    <TextView
+        android:id="@+id/textView180"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1703 — взятие Ниеншанца русской армией. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView181" />
+
+    <TextView
+        android:id="@+id/textView181"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text='1702 — начало издания первой русской печатной газеты "Ведомости".'
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView182" />
+
+    <TextView
+        android:id="@+id/textView182"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1700, ноябрь — поражение русских войск под Нарвой.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView183" />
+
+    <TextView
+        android:id="@+id/textView183"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="1700, август - 1721 -  Северная война со Швецией."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

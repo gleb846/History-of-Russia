@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView146"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="40dp"
+        android:text="1293 — «Дюденева рать» - поход на Русь ордынского полководца Тудана  (на Руси его звали Дюдень).Разорил 14 городов, среди них - Москва."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView148"
+        android:layout_width="400dp"
+        android:layout_height="57dp"
+        android:text="1497 — Судебник Ивана III. Ограничение перехода крестьян неделей до и неделей после Юрьева дня осеннего (26 ноября) и уплатой пожилого. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView162" />
+
+    <TextView
+        android:id="@+id/textView158"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1442-независимость русской церкви от византийской."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView159" />
+
+    <TextView
+        android:id="@+id/textView163"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1462—1505 — княжение Ивана III. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView158" />
+
+    <TextView
+        android:id="@+id/textView154"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1340—1353 — княжение Симеона Гордого в Москве.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView155" />
+
+    <TextView
+        android:id="@+id/textView160"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1395 — разорение Тимуром Золотой Орды.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView156" />
+
+    <TextView
+        android:id="@+id/textView153"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1353—1359 — княжение Ивана II Красного в Москве.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView154" />
+
+    <TextView
+        android:id="@+id/textView156"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1393 — присоединение Нижнего Новгорода  и Мурома к Москве.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView157" />
+
+    <TextView
+        android:id="@+id/textView152"
+        android:layout_width="400dp"
+        android:layout_height="45dp"
+        android:text="1359—1389 — княжение в Москве Дмитрия Ивановича.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView153" />
+
+    <TextView
+        android:id="@+id/textView157"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1389—1425 — княжение Василия I Дмитриевича.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView151" />
+
+    <TextView
+        android:id="@+id/textView162"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1478 — присоединение Новгорода к Москве. Конец новгородской республике."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView163" />
+
+    <TextView
+        android:id="@+id/textView150"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:text="1299 — переезд Митрополита Максима с клиром из Киева во Владимир-на-Клязьме. Владимирское княжество становится религиозным центром Руси."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView146" />
+
+    <TextView
+        android:id="@+id/textView149"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1312 — принятие Золотой Ордой мусульманства как государственной религией."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView147" />
+
+    <TextView
+        android:id="@+id/textView151"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1380, 8 сентября — Куликовская битва. Победа русских войск. Дмитрий Донской."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView152" />
+
+    <TextView
+        android:id="@+id/textView155"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1325—1340 — княжение Ивана Калиты в Москве.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView149" />
+
+    <TextView
+        android:id="@+id/textView159"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1425—1462 — княжение Василия II Темного. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView160" />
+
+    <TextView
+        android:id="@+id/textView147"
+        android:layout_width="400dp"
+        android:layout_height="45dp"
+        android:text="1303—1325 — княжение в Москве Юрия Даниловича."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView150" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

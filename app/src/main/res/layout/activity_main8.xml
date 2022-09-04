@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView127"
+        android:layout_width="400dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="40dp"
+        android:text="862 — легендарное призвание братьев-варягов Рюрика, Синеуса и Трувора в Новгород."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView140"
+        android:layout_width="390dp"
+        android:layout_height="25dp"
+        android:text="1113—1125 — княжение Владимира Мономаха."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView137" />
+
+    <TextView
+        android:id="@+id/textView135"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="912—945 — княжение Игоря (сына Рюрика) в Киеве."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView136" />
+
+    <TextView
+        android:id="@+id/textView138"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="988 — крещение Руси."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView139" />
+
+    <TextView
+        android:id="@+id/textView144"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:text="1263—1303 — княжение первого московского князя Даниила Александровича, младшего сына Александра Невского."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView142" />
+
+    <TextView
+        android:id="@+id/textView133"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="972—980 — княжение Ярополка."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView134" />
+
+    <TextView
+        android:id="@+id/textView137"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1045-1050 – Софийский собор в Новгороде"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView130" />
+
+    <TextView
+        android:id="@+id/textView136"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="907 — успешный поход Олега на Византию."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView132" />
+
+    <TextView
+        android:id="@+id/textView130"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="1019—1054 — княжение Ярослава Мудрого."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView138" />
+
+    <TextView
+        android:id="@+id/textView143"
+        android:layout_width="390dp"
+        android:layout_height="35dp"
+        android:text="1185 — поход Игоря Новгород-Северского против половцев."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView141" />
+
+    <TextView
+        android:id="@+id/textView134"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:text="945—964 — правление Ольги. Провела налоговую реформу ( вместо полюдья). Установление размеров дани (уроков) и мест ее сбора (погостов). Сближение Византии и Руси."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView135" />
+
+    <TextView
+        android:id="@+id/textView139"
+        android:layout_width="400dp"
+        android:layout_height="25dp"
+        android:text="980—1015 — княжение Владимира I Святого."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView133" />
+
+    <TextView
+        android:id="@+id/textView141"
+        android:layout_width="390dp"
+        android:layout_height="35dp"
+        android:text="1125—1157 — княжение Юрия Долгорукого в Ростово-Суздальской земле."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView140" />
+
+    <TextView
+        android:id="@+id/textView131"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="862—879 — княжение Рюрика в Новгороде."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView127" />
+
+    <TextView
+        android:id="@+id/textView142"
+        android:layout_width="390dp"
+        android:layout_height="35dp"
+        android:text="1252—1263 — Александр Невский — великий князь владимирский."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView143" />
+
+    <TextView
+        android:id="@+id/textView132"
+        android:layout_width="400dp"
+        android:layout_height="75dp"
+        android:text="882 — поход Олега на Киев. Объединение Киева и Новгорода. Подчинение большинства восточнославянских племен власти киевского князя."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView129" />
+
+    <TextView
+        android:id="@+id/textView129"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="879—912 — правление Олега."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView131" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

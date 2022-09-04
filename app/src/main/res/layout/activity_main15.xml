@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="40dp"
+        android:text="Чингисхан - монгольский завоеватель. Создал державу от Тихого океана до Волги в XIII в. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Мстислав Старый - великий князь киевский в 1221 - 1223 гг. Погиб в битве на Калке"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView69" />
+
+    <TextView
+        android:id="@+id/textView71"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Батый - монгольский хан, предводитель общемонгольского похода на Русь и в Европу "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView73" />
+
+    <TextView
+        android:id="@+id/textView72"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Василий II - великий князь московский и владимирский в 1425-1453 гг. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView79" />
+
+    <TextView
+        android:id="@+id/textView77"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:text="Юрий Галицкий - князь галицкий и звенигородский, вел борьбу за великое княжение ч племянником Василием II "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView72" />
+
+    <TextView
+        android:id="@+id/textView81"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Василий Косой - князь звенигородский, вместе с отцом вел войну с Василием II"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView77" />
+
+    <TextView
+        android:id="@+id/textView82"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Дмитрий Шемяка - князь галицкий, великий князь московский в 1446-1447 гг."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView81" />
+
+    <TextView
+        android:id="@+id/textView78"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Мамай - веначальник Золотой Орды с 1370 года, татарский воевода "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView80" />
+
+    <TextView
+        android:id="@+id/textView79"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Василий I - великий князь московский и владимирский в 1389-1425 гг. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView78" />
+
+    <TextView
+        android:id="@+id/textView80"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:text="Даниил Московский - князь московский. Сын Александра Невского. После смерти отца получил в княжение Москву"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView74" />
+
+    <TextView
+        android:id="@+id/textView73"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Даниил Галицкий - князь, галицко-волынский, король с 1254 г."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView75" />
+
+    <TextView
+        android:id="@+id/textView74"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:text="Александр Невский - князь, новгородский, тверской, великий князь владимирский с 1252 г."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView71" />
+
+    <TextView
+        android:id="@+id/textView75"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:text="Мстислав Удалой - князь новгородский, торопецкий и галицкий. Успешно воевал с половцами. Участник битвы на Калке"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView70" />
+</androidx.constraintlayout.widget.ConstraintLayout>

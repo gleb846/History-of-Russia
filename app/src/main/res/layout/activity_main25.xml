@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView98"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="40dp"
+        android:text="Петр I(Великий) - Царь с 1682 г., первый российский император"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView99"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Иван V - Сын царя Алексея Михайловича. Провозглашен царем в 1682 г. вместе с Петром I"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView98" />
+
+    <TextView
+        android:id="@+id/textView100"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Анна Ивановна - Российская императрица в 1730-1740 гг., племянница Петра I"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView107" />
+
+    <TextView
+        android:id="@+id/textView104"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="Суворов Александр Васильевич - Русский полководец XVIII в., генералиссимус. Не проиграл ни одного сражения"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView109" />
+
+    <TextView
+        android:id="@+id/textView109"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="Екатерина II - Российская императрица в 1762-1796 гг. Проводила политику просвещенного абсолютизма "
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView110" />
+
+    <TextView
+        android:id="@+id/textView110"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Петр III - Российский император в 1761-1762 гг. Свергнут в результате переворота "
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView111" />
+
+    <TextView
+        android:id="@+id/textView111"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Елизавета Петровна - Российская императрица в 1741-1761 гг. Дочь Петра I и Екатерины I"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView105" />
+
+    <TextView
+        android:id="@+id/textView105"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Иван VI Антонович - Российский император в 1740-1741 гг. Свергнут Елизаветой в ноябре 1741 г."
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView106" />
+
+    <TextView
+        android:id="@+id/textView106"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Анна Леопольдовна - Правительница России в 1740-1741 гг. при сыне - императоре Иване VI"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView100" />
+
+    <TextView
+        android:id="@+id/textView107"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Петр II Алексеевич - Император в 1727-1730 гг. Сын царевича Алексея Петровича, внук Петра I"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView108" />
+
+    <TextView
+        android:id="@+id/textView108"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:text="Екатерина I - Российская императрица в 1725-1727 гг. Вторая жена Петра I"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView101" />
+
+    <TextView
+        android:id="@+id/textView101"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="Карл XII - Король Швеции с 1697 г. Вторгся в Россию, потерпел поражение в Полтавской битве 1709 г."
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView102" />
+
+    <TextView
+        android:id="@+id/textView102"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="Мешников Александр Даниилович - Сподвижник Петра I. При Екатерине I стал фактическим правителем России"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView103" />
+
+    <TextView
+        android:id="@+id/textView103"
+        android:layout_width="350dp"
+        android:layout_height="55dp"
+        android:text="Софья Алексеевна - Царевна, правительница России в 1682-1689 гг., дочь царя Алексея Михайловича"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView99" />
+</androidx.constraintlayout.widget.ConstraintLayout>

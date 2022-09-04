@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView197"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="1917 г., 2 марта. – Отречение Николая II от престола. Образование Временного правительства. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView210"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1917 г., май. – Образование 1-го коалиционного Временного правительства.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView197" />
+
+    <TextView
+        android:id="@+id/textView211"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1918 г., июль – Расстрел царской семьи в Екатеринбурге. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView212" />
+
+    <TextView
+        android:id="@+id/textView212"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1918–1920 гг. – Гражданская война в России.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView213" />
+
+    <TextView
+        android:id="@+id/textView213"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1917 г., август. – Корниловский мятеж.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView214" />
+
+    <TextView
+        android:id="@+id/textView214"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1917 г., июль. – Образование 2-го коалиционного Временного правительства.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView210" />
+
+    <TextView
+        android:id="@+id/textView215"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1941 г., 22 июня – 1945 г., 9 мая. – Великая Отечественная война.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView216" />
+
+    <TextView
+        android:id="@+id/textView220"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1946 г. – Начало «холодной войны»."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView223" />
+
+    <TextView
+        android:id="@+id/textView221"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1961 г., 12 апреля. – Полет Ю. А. Гагарина в космос.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView226" />
+
+    <TextView
+        android:id="@+id/textView226"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1949 г. – Создание в СССР ядерного оружия."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView220" />
+
+    <TextView
+        android:id="@+id/textView227"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1980 г., июль – август. – Олимпийские игры в Москве."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView221" />
+
+    <TextView
+        android:id="@+id/textView223"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1945 г, 6 августа – 2 сентября – Разгром Японии."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView224" />
+
+    <TextView
+        android:id="@+id/textView224"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1945 г., 8 мая– Капитуляция Германии. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView225" />
+
+    <TextView
+        android:id="@+id/textView225"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1944 г., 27 января. – Окончательная ликвидация блокады Ленинграда. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView222" />
+
+    <TextView
+        android:id="@+id/textView222"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1943 г., сентябрь – декабрь. – Битва за Днепр."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView215" />
+
+    <TextView
+        android:id="@+id/textView216"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1939 г, 1 сентября – 1945 г., 2 сентября. – Вторая мировая война."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView217" />
+
+    <TextView
+        android:id="@+id/textView217"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1924 г. – Принятие Конституции СССР.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView219" />
+
+    <TextView
+        android:id="@+id/textView219"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1921 г., март – Заключение Рижского мирного договора РСФСР с Польшей."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView211" />
+</androidx.constraintlayout.widget.ConstraintLayout>

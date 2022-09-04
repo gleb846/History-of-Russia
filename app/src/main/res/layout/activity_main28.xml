@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView193"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:text="1801—1825 — царствование Александра I (сын Павла I).  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView198"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="1801 — присоединение к  России Восточной Грузии (Кратли и Кахетии). "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView193" />
+
+    <TextView
+        android:id="@+id/textView194"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1812, конец июля — начало августа — Смоленское сражение."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView200" />
+
+    <TextView
+        android:id="@+id/textView199"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="1881—1894 — царствование Александра III (сын Александра II)."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView208" />
+
+    <TextView
+        android:id="@+id/textView208"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="1855—1881 — царствование Александра II (сын Николая I).  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView206" />
+
+    <TextView
+        android:id="@+id/textView206"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1825, 14 декабря — восстание декабристов в Петербурге. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView207" />
+
+    <TextView
+        android:id="@+id/textView207"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1825—1855 — царствование Николая I (сын Павла I). "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView202" />
+
+    <TextView
+        android:id="@+id/textView202"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1825, 19 ноября — смерть Александра I в Таганроге. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView203" />
+
+    <TextView
+        android:id="@+id/textView203"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1817—1864 — Кавказская война. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView204" />
+
+    <TextView
+        android:id="@+id/textView204"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="1813—1814 — заграничные походы русской армии. Освобождение Европы от французского господства.  "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView205" />
+
+    <TextView
+        android:id="@+id/textView205"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:text="1812, 26 августа — Бородинское сражение. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView194" />
+
+    <TextView
+        android:id="@+id/textView200"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="1809 — Фридрихсгамский мир со Швецией. Присоединение Финляндии к России. "
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView201" />
+
+    <TextView
+        android:id="@+id/textView201"
+        android:layout_width="400dp"
+        android:layout_height="77dp"
+        android:text="1807, 25 июня — Тильзитский мир с Францией. Признание Россией всех наполеоновских завоеваний и присоединение к континентальной блокаде Англии."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView195" />
+
+    <TextView
+        android:id="@+id/textView195"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:text="1805, ноябрь — сокрушительное поражение русско-австрийских войск от Наполеона I под Аустерлицем."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView198" />
+
+    <TextView
+        android:id="@+id/textView209"
+        android:layout_width="400dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="11dp"
+        android:text="1894—1917 — царствование Николая II"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView199" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
